@@ -5,6 +5,8 @@
 layout: default
 ---
 
-# WORK IN PROGRESS
+# Fantastyczne Narzędzia
+
+
 
 * [Narzędzia](/narzedzia)

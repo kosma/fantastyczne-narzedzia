@@ -30,6 +30,12 @@ Linki:
 
 ---
 
+## Brymen BM786
+
+https://www.welectron.com/Brymen-BM786-Multimeter-EEVBlog-Edition
+
+---
+
 ## Przewody pomiarowe Best BST-050-JP
 
 ![](BST-050-JP.webp)

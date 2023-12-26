@@ -43,5 +43,9 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  chemia:
+    output: true
   narzedzia:
+    output: true
+  pomiarowe:
     output: true

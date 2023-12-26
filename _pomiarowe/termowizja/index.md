@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kamera termowizyjna
+title: Termowizja
 ---
 
 Kamera termowizyjna dramatycznie przyspiesza znajdowanie uszkodzeń, zwłaszcza zwarć. Przy większości napraw nie jest niezbędna - te same efekty można uzyskać,
